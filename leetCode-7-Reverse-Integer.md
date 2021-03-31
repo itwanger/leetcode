@@ -1,4 +1,4 @@
-## 题目描述（简单难度）
+# 07、题目描述（简单难度）
 
 ![](http://windliang.oss-cn-beijing.aliyuncs.com/7_rev.jpg)
 

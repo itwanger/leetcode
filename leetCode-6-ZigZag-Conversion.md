@@ -1,4 +1,4 @@
-## 题目描述（中等难度）
+# 06、题目描述（中等难度）
 
 ![](http://windliang.oss-cn-beijing.aliyuncs.com/6_zig.jpg)
 

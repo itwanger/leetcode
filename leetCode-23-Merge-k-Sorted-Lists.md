@@ -1,4 +1,4 @@
-## 题目描述（困难难度）
+# 23、题目描述（困难难度）
 
 ![](https://windliang.oss-cn-beijing.aliyuncs.com/23.jpg)
 

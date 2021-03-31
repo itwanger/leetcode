@@ -1,4 +1,4 @@
-# 题目描述（中等难度）
+# 24、题目描述（中等难度）
 
 ![](https://windliang.oss-cn-beijing.aliyuncs.com/24.jpg)
 
