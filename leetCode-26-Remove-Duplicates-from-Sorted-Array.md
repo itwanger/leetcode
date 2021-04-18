@@ -1,4 +1,4 @@
-# 题目描述（简单难度）
+# 26、题目描述（简单难度）
 
 ![](https://windliang.oss-cn-beijing.aliyuncs.com/26.jpg)
 
